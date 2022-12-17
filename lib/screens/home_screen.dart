@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:flutter_boilerplate/widgets/widgets.dart';
+import 'package:flutter_boilerplate/domain/services/services.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key, required this.title});
